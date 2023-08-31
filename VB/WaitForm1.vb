@@ -29,7 +29,7 @@ Namespace WaitForm_SetDescription
         End Sub
 
 '#End Region
-        Public Enum WaitFormCommand
-        End Enum
+       ' Public Enum WaitFormCommand
+       ' End Enum
     End Class
 End Namespace
